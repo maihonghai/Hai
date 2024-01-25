@@ -1,0 +1,14 @@
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.SpaceShooter.resources
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.startscreen.resources
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+D:\SpaceShooterGame\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
